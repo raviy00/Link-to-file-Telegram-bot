@@ -24,7 +24,7 @@ A powerful Telegram bot that downloads files from various sources with specializ
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/telegram-downloader-bot.git
+git clone https://github.com/raviy00/telegram-downloader-bot.git
 cd telegram-downloader-bot
 ```
 
